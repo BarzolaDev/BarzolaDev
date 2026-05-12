@@ -7,4 +7,4 @@ Building systems that don't break under real concurrency.
 - [Inventory Java](https://github.com/BarzolaDev/inventory-java)  
 
 If you notice inactivity, my new power supply burned out again.
-Argetine electricity doings thing. In the meantime, learning C.
+Argentine electricity doings thing. In the meantime, learning C.
