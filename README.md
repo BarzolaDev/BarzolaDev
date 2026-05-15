@@ -5,6 +5,3 @@ Building systems that don't break under real concurrency.
 ## Projects
 - [Inventory API](https://github.com/BarzolaDev/inventory-api) 
 - [Inventory Java](https://github.com/BarzolaDev/inventory-java)  
-
-If you notice inactivity, my new power supply burned out again.
-Argentine electricity doings thing. In the meantime, learning C.
