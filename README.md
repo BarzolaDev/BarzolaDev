@@ -1,5 +1,5 @@
 # Maximiliano Barzola
-Backend Developer · Python & Java
+Backend Developer · Python, Java & Go
 Building systems that don't break under real concurrency.
 
 ## Projects
